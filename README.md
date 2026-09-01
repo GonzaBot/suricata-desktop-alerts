@@ -134,7 +134,7 @@ El `eve.json` es el punto natural de extensión. Reenviarlo a una plataforma de 
 
 ## Documentación
 
-El informe completo, con las 16 capturas y el detalle de cada paso, está en [`docs/Informe-Suricata-IDS-Debian.docx`](docs/Informe-Suricata-IDS-Debian.docx).
+El informe completo, con las 16 capturas y el detalle de cada paso, está en [`docs/Informe-Suricata-IDS-Debian.docx`](docs/Informe-Suricata-IDS-Debian.pdf).
 
 ## Advertencia
 
