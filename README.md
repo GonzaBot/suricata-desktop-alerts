@@ -142,5 +142,5 @@ Las pruebas con nmap incluidas en este trabajo se realizaron exclusivamente sobr
 
 ---
 
-**Gonzalo Daniel Rodríguez de Mello** — Analista en Sistemas, Especialista en Ciberseguridad
+**Gonzalo Rodríguez** — Analista en Sistemas, Especialista en Ciberseguridad
 [LinkedIn](https://linkedin.com/in/gonzardem) · Rivera, Uruguay
